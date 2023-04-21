@@ -9,4 +9,4 @@ Description here....
     output:
 
 #### **Constraints**
-    constraints here
+    1 <= N <= 50
