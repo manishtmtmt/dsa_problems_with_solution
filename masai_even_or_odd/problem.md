@@ -17,6 +17,8 @@ If the number is divisible by 2, the number is considered `Even` else the number
 
 #### **Sample Input**
     input: 5
+            
+        
 
 #### **Sample Output**
     output: Odd
