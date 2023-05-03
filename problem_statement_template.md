@@ -17,4 +17,4 @@ Description here....
     output:
 
 #### **Constraints**
-    1 <= N <= 50f
+    1 <= N <= 50
