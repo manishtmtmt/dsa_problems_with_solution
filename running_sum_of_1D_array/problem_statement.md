@@ -10,7 +10,7 @@ Return the running sum of `nums`.
 #### **Sample Output**
     output: [1,3,6,10]
 
-#### **Sample Output**
+#### **Explanation**
     Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
 
 #### **Constraints**
