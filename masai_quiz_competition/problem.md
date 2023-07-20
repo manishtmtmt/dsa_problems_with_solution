@@ -12,11 +12,15 @@ Note: It is possible that all the students fall in one single group
 
 #### **Input Format**
 
--
+- The first line of the input contains `T`, the number of test cases
+
+- The first line of each test case, contains `N`, the total number of students
+
+-Next line contains `N` space separated integers having values either 0 or 1
 
 #### **Output Format**
 
-- 
+- For each test case, print a single integer denoting a single value, the number of groups participating, on a new line
 
 #### **Sample Input**
     input: 5
@@ -28,3 +32,7 @@ Note: It is possible that all the students fall in one single group
     output: 2
             1
 
+#### **Constraints**
+    1 <= T <= 10
+    1 <= N <= 10^6
+    0 <= A[i] <= 1
